@@ -1,0 +1,6 @@
+export { default as AddEducation } from './AddEducation'
+export { default as AddExperience } from './AddExperience'
+export { default as Dashboard } from './Dashboard'
+export { default as EditProfile } from './EditProfile'
+export { default as Profile } from './Profile'
+export { default as Profiles } from './Profiles'
